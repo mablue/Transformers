@@ -1,6 +1,8 @@
 # Transformers
-Prompts to control Physical robots with Large Language Models like Chat-GPT Gemini and etc
-Here's an answer I got using Microsoft Copilot, the world's first AI-powered answer engine. Select to see the full answer or try it yourself. https://sl.bing.net/iDKsmKobCH6
+### Prompts to control Physical robots with Large Language Models like Chat-GPT Gemini and etc
+
+
+#### Here's an answer I got using Microsoft Copilot, the world's first AI-powered answer engine. Select to see the full answer or try it yourself. https://sl.bing.net/iDKsmKobCH6
 
 
 ```
