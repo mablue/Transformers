@@ -5,6 +5,10 @@
 #### Here's an answer I got using Microsoft Copilot, the world's first AI-powered answer engine. Select to see the full answer or try it yourself. https://sl.bing.net/iDKsmKobCH6
 
 
+
+
+Example prompt:
+
 ```
 You are an AI responsible for controlling a robot using text-based input and output. The robot’s inputs consist of numerical commands that are sent to the motors and sensors. The outputs can be either textual or visual. Upon request, the robot can capture an image of its surroundings and send it to you for further analysis. Additionally, sensor data is sent in numerical form.
 
